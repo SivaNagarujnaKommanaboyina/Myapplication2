@@ -12,6 +12,7 @@ h2{
 .container{
     display: flex;
     background-color: blue;
+    font-weight: 300;
 
 }
 .container>div{
